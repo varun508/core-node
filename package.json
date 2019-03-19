@@ -1,0 +1,19 @@
+{
+  "name": "core-node",
+  "version": "1.0.0",
+  "description": "core node js, no framework or dependencies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/varun508/core-node.git"
+  },
+  "author": "varun sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/varun508/core-node/issues"
+  },
+  "homepage": "https://github.com/varun508/core-node#readme"
+}
